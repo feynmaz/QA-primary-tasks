@@ -1,0 +1,1 @@
+python main.py C:\\TEMP\\task_2\\input.txt C:\\TEMP\\task_2\\files

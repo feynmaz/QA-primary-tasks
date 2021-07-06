@@ -1,0 +1,12 @@
+<config>
+    <file
+        source_path="C:\TEMP"
+        destination_path="C:\TEMP\copy_to"
+        file_name="target.txt"
+    />
+    <file
+        source_path="C:\TEMP"
+        destination_path="C:\TEMP\copy_to_too"
+        file_name="target.txt"
+    />
+</config>
